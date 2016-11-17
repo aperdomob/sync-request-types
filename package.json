@@ -1,8 +1,9 @@
 {
-  "name": "sync-request-types",
+  "name": "@types/sync-request",
   "version": "1.0.0",
   "description": "Types for sync-request",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

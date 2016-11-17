@@ -3,6 +3,4 @@
 // Definitions by: Alejandro Perdomo <https://github.com/aperdomob/>
 
 
-declare function request(method:string, url:string, options:any) : any;
-
-export = request;
+export declare function request(method:string, url:string, options:any) : any;

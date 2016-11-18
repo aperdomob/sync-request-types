@@ -3,4 +3,5 @@
 // Definitions by: Alejandro Perdomo <https://github.com/aperdomob/>
 
 
-export declare function request(method:string, url:string, options:any) : any;
+declare function sync_request(method: string, url: string, options: any): any;
+export = sync_request;
